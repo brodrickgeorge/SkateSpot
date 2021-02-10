@@ -3,10 +3,10 @@
     "name": "SkateSpot",
     "slug": "SkateSpot",
     "version": "1.0.0",
-    "orientation": "default",
-    "icon": "./assets/icon.png",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./app/assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -25,6 +25,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An app for users to discover obstacles and or skate parks around them. Also includes a minigame that prompts the user to complete a trick at random. ",
+    "githubUrl": "https://github.com/brodrickgeorge/SkateSpot"
   }
 }
